@@ -50,3 +50,8 @@ Motor Mixing
 ESCs
       ↓
 BLDC Motors
+
+## 🎥 Project Demo
+
+[▶️ Watch ESP32 Mini Drone Dashboard Demo]
+(https://drive.google.com/file/d/1Zb0sJbkIBEi497Tn7LgN_d_60Y6EevSR/view?usp=drivesdk)
